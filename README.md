@@ -1,4 +1,4 @@
-# Pulsewire — AI-Powered Incident Response Platform (Demo)
+# Pulsewire — AI-Powered Incident Response Platform 
 
 A scaled-down, front-end-only demo of an enterprise SRE copilot: real-time
 dashboard, infrastructure topology, AI-powered log analysis with root-cause
@@ -48,5 +48,4 @@ After pushing, enable GitHub Pages (Settings → Pages → Deploy from branch �
 
 ## Tech
 
-Single-file HTML/CSS/JS. No frameworks, no build tooling — intentionally kept
-simple so it's trivial to read, fork, and extend.
+Single-file HTML/CSS/JS.
